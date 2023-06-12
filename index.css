@@ -17,10 +17,10 @@ body {
 .card-container {
   background-color: hsl(0, 0%, 100%);
   border-radius: 1rem;
-  padding: 20px;
+  padding: 10px;
   width: 25%;
-  max-width: 300px;
-  min-width: 300px;
+  max-width: 325px;
+  min-width: 325px;
   height: auto;
 }
 .title-text {
